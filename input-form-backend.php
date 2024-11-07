@@ -33,6 +33,6 @@
 
     $conn->close();
     ?>
-    <button><a href="input-form-frontend.php">Back</a></button>
+    <button><a href="index.php">Back</a></button>
 </body>
 </html>
