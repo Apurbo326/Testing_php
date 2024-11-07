@@ -7,10 +7,10 @@
 </head>
 <body>
     <?php
-    $host = 'localhost'; 
-    $username = 'root'; 
-    $password = ''; 
-    $database = 'cse309_class-performance'; 
+    $host = 'sql303.infinityfree.com'; 
+    $username = 'if0_37670453'; 
+    $password = 'FmKYBSzJGX'; 
+    $database = 'if0_37670453_testing_PHP'; 
 
     $conn = mysqli_connect($host, $username, $password, $database);
 
